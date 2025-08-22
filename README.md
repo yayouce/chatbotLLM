@@ -1,7 +1,7 @@
 ## NGBOT Assist : Agent Conversationnel Hybride pour l'Analyse de Logs
 Ce projet présente un assistant IA avancé conçu pour transformer l'analyse de logs applicatifs et le support technique. Au lieu de recherches manuelles fastidieuses, cet agent permet aux équipes d'exploitation de dialoguer en langage naturel pour diagnostiquer des incidents, retracer des transactions et comprendre le comportement de l'application en temps réel.
 Ce projet a été réalisé dans le cadre de mon stage de fin de cycle de MASTER chez NGSER
-![lien youtube vers la demo](https://youtu.be/RZADO153XmI )
+[lien youtube vers la demo](https://youtu.be/RZADO153XmI )
 Lien vers une courte vidéo de démonstration de l'interface et des capacités de l'agent.
 ## Le Problème : Du Chaos des Logs à l'Intelligence Actionnable
 Les applications modernes génèrent des volumes massifs de logs hétérogènes. Pour les équipes de support, trouver l'information pertinente pour diagnostiquer un incident client est souvent comme chercher une aiguille dans une botte de foin avec des outils comme grep. Ce processus est lent, sujet à erreur et nécessite une expertise technique approfondie.

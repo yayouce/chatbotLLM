@@ -16,7 +16,7 @@ Exposition via API : Le système est entièrement encapsulé dans une API REST p
 Interface de Démonstration : Un POC frontend en React a été développé pour illustrer les capacités de l'agent.
 🏛️ Architecture Technique
 Ce projet met en œuvre une architecture RAG Agentique moderne, orchestrée par LangGraph.
-![liens vers l'architecture](https://drive.google.com/file/d/10f3fk2HX0i9dPwPQRxaPj1W77H2WDo3O/view?usp=sharing )
+[liens vers l'architecture](https://drive.google.com/file/d/10f3fk2HX0i9dPwPQRxaPj1W77H2WDo3O/view?usp=sharing )
 
 Pipeline d'Ingestion de Données (Offline) :
 **Parsing** : Un parser Python sur mesure analyse et structure les logs bruts, en extrayant plus de 15 types de métadonnées (ID de contexte, type de log, statut, durées, etc.).

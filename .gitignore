@@ -1,0 +1,16 @@
+settings/*
+models
+__pycache__/
+*.py[cod]
+
+.env
+.venv
+env/
+venv/
+log_db_advanced/*
+indexer2.py
+root_config.py
+sample*.log
+testreadingfile.py
+visualize_db.py
+rag2.py
